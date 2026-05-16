@@ -38,7 +38,7 @@ Copy `AGENTS.md` into your agent host, run the smoke check, and if something bre
 > This is an independent capability pack. It is not affiliated with or endorsed by continuedev/continue unless explicitly stated.
 
 Quick links:
-[Start](./AGENTS.md) · [Prompt](./01_PROMPT_PREVIEW.md) · [Evals](./06_EVALS/) · [Pitfalls](./03_PITFALL_LOG.md) · [Quick Start](./00_QUICK_START.md)
+[Start](./AGENTS.md) · [Prompt](./01_PROMPT_PREVIEW.md) · [Evals](./06_EVALS/) · [Pitfalls](./03_PITFALL_LOG.md) · [Manual](./05_HUMAN_MANUAL.md) · [Quick Start](./00_QUICK_START.md)
 
 ---
 
