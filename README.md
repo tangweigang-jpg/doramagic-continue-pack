@@ -1,4 +1,4 @@
-# continue Doramagic Pack
+# Continue AI Context Pack for Claude Code, Codex, Cursor, and Aider
 
 Pack version: `v1.0.0` · Last updated: `2026-05-14`
 
@@ -7,6 +7,8 @@ Pack version: `v1.0.0` · Last updated: `2026-05-14`
 Languages: English | [中文](./README.zh-CN.md)
 
 ## Copy / Run / Verify
+
+This is an independent AI context resource pack for continuedev/continue.: host instructions, prompt preview, evals, pitfalls, and recovery rules you can load into Claude Code, Codex, Cursor, Aider, and other AI coding agents.
 
 1. Copy `AGENTS.md` into your AI coding agent host.
 2. Open `06_EVALS/smoke_check.md` and run the prompt.
